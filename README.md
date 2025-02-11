@@ -30,7 +30,7 @@ A Pumpfun Copy Trading Bot on Solana automatically tracks and mimics the trades 
     	"encoding": "base64",
     	"transactionDetails": "full",
     	"showRewards": true,
-    	"maxSupportedTransactionVersion": 0
+    	"maxSupportedTransactionVersion": 0 
       }
   ]
 }
